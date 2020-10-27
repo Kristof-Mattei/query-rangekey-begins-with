@@ -1,0 +1,21 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "Scripts/typings",
+  "bundle": "Scripts/typings/tsd.d.ts",
+  "installed": {
+    "node/node.d.ts": {
+      "commit": "caee0398cbc82b1bd2cc00843d911a664d498c25"
+    },
+    "aws-sdk/aws-sdk.d.ts": {
+      "commit": "caee0398cbc82b1bd2cc00843d911a664d498c25"
+    },
+    "joi/joi.d.ts": {
+      "commit": "a61199a4684d70334795302f09fb2a6b8ca016db"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "a61199a4684d70334795302f09fb2a6b8ca016db"
+    }
+  }
+}
